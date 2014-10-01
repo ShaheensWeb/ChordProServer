@@ -8,6 +8,9 @@ www.shaiwanghazazani.com
 ---->
 
 ==============
+colour --> this is a downloaded module, to check out for yourself
+link: https://www.npmjs.org/package/colour
+
 
 Things you will find within this file;
 public/ 
