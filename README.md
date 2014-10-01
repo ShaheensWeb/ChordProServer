@@ -12,8 +12,7 @@ www.shaiwanghazazani.com
 Things you will find within this file;
 public/ 
 
-  index.html
-  more songNames.html, 
+  index.html and other songNames.html, 
   Here were storing local versions of html for direct access via websiteName.com/songName.html
   
 songs/
