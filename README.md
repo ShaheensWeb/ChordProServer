@@ -3,7 +3,7 @@ ChordProServer
 <----
 
 Shaheen Ghazazani
-www.shaiwanghazazani.com
+http://shaheensweb.me
 
 ---->
 
@@ -34,4 +34,4 @@ This code is primarly programmed in a way that it should be self-commenting and 
 please inform me!
 
 Contact:
-shaheenghazazani@gmail.com
+sean.ghazazani@cmail.carleton.ca   
